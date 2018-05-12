@@ -35,6 +35,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24960#Voyages-amusants
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2008-03-30'
 gutenberg_type: Text
