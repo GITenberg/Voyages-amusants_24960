@@ -1,0 +1,52 @@
+_repo: Voyages-amusants_24960
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Chapelle, Claude Emmanuel Lhuillier
+    birthdate: 1626
+    deathdate: 1686
+    gutenberg_agent_id: '26842'
+    url: http://www.gutenberg.org/2009/agents/26842
+  - agent_name: Néel, Louis-Balthazar
+    aliases:
+    - Neel, Louis-Balthazar
+    - Louis-Balthazar Néel
+    deathdate: 1754
+    gutenberg_agent_id: '26833'
+    url: http://www.gutenberg.org/2009/agents/26833
+  - agent_name: Lottin, Augustin-Martin
+    alias: Lottin, A. M. (Augustin-Martin)
+    birthdate: 1726
+    deathdate: 1793
+    gutenberg_agent_id: '26845'
+    url: http://www.gutenberg.org/2009/agents/26845
+  - agent_name: Pompignan, Jean-Jacques Lefranc, marquis de
+    birthdate: 1709
+    deathdate: 1784
+    gutenberg_agent_id: '26844'
+    url: http://www.gutenberg.org/2009/agents/26844
+  - agent_name: Bachaumont, François le Coigneux de
+    alias: Bachaumont, Francois le Coigneux de
+    birthdate: 1624
+    deathdate: 1702
+    gutenberg_agent_id: '26843'
+    url: http://www.gutenberg.org/2009/agents/26843
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2008-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24960'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French poetry'
+- !lcsh 'France -- Description and travel'
+- !lcc 'PQ'
+title: Voyages amusants
+url: http://www.gutenberg.org/ebooks/24960
